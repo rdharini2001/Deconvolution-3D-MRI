@@ -1,1 +1,1 @@
-# Deconvolution_3D_Resnet
+# Development of a Lightweight Deep Learning Algorithm for 3D Deconvolution
